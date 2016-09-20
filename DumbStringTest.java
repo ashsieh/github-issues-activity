@@ -26,6 +26,7 @@ public class DumbStringTest {
 		int expected = 3;
 		int actual = DumbString.lettersInCommon(a, b);
 		assertEquals(expected, actual);
+ 
 	}
 	
 	@Test
